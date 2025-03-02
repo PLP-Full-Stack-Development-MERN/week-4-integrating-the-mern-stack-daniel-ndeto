@@ -2,6 +2,18 @@
 
 A full-stack Task Manager application built using the MERN stack. This application allows users to create, read, update, and delete tasks. Each task contains fields like title, description, status, and due date.
 
+## home
+
+![image](https://github.com/user-attachments/assets/3ca62dd0-f6a1-4c34-a257-06641b77914c)
+
+## task list
+
+![image](https://github.com/user-attachments/assets/f36b0b99-42a0-4630-979f-7642cd021071)
+
+### updating task
+
+![image](https://github.com/user-attachments/assets/235e01eb-d9cc-4ed6-a2a0-2b53e3bda89f)
+
 ## Table of Contents
 
 - [Overview](#overview)
